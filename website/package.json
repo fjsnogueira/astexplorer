@@ -137,7 +137,7 @@
     "remark-directive": "^1.0.0",
     "remark-frontmatter": "^3.0.0",
     "remark-gfm": "^1.0.0",
-    "remark-math": "^4.0.0",
+    "remark-math": "^5.1.0",
     "san": "^3.9.4",
     "scalameta-parsers": "^4.2.1",
     "seafox": "^1.6.9",
