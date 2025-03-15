@@ -50,7 +50,7 @@
     "@glimmer/compiler": "^0.73.1",
     "@glimmer/syntax": "^0.73.1",
     "@humanwhocodes/momoa": "^1.0.0",
-    "@mdx-js/mdx": "^1.5.8",
+    "@mdx-js/mdx": "^2.0.0",
     "@typescript-eslint/parser": "^4.1.0",
     "@vue/compiler-dom": "^3.0.0-rc.10",
     "@webassemblyjs/wast-parser": "^1.9.0",
